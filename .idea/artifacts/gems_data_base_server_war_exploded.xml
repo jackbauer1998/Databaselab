@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gems_data_base_server:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gems_data_base_server_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gems_data_base_server/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gems_data_base_server" />
+        </element>
+        <element id="directory" name="lib">
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
